@@ -130,7 +130,7 @@ $(document).ready(function () {
       
      
       // Send AJAX request to your API
-      fetch("http://146.190.223.121:80/send-email", {
+      fetch("https://146.190.223.121:80/send-email", {
           method: "POST",
           headers: {
               "Content-Type": "application/json",
