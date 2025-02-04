@@ -50,6 +50,7 @@
     font-style: italic;
     font-display: swap;
 }
+
 nav{
     z-index: 999 !important;
 }
@@ -1267,6 +1268,7 @@ input:focus {
 }
 
 .no-dec{
+    color: white;
     text-decoration: none;
     
 }
