@@ -1268,7 +1268,7 @@ input:focus {
 }
 
 .no-dec{
-    color: white;
+    color: white !important;
     text-decoration: none;
     
 }
