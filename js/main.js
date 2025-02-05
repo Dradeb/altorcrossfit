@@ -130,7 +130,7 @@ $(document).ready(function () {
       
      
       // Send AJAX request to your API
-      fetch("https://146.190.223.121:80/send-email", {
+      fetch("https://seal-app-2-2v33o.ondigitalocean.app/send-email", {
           method: "POST",
           headers: {
               "Content-Type": "application/json",
